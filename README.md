@@ -112,14 +112,6 @@ I'm enthusiastic about learning new technologies, solving real-world problems, a
 
 ---
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kvishnu1805&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kvishnu1805&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/vishnu-k-268712290](https://www.linkedin.com/in/vishnu-k-268712290/)
