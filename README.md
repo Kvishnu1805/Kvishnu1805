@@ -1,22 +1,28 @@
 # Hi, I'm Vishnu K 👋
 
-🎓 Computer Science Student  
-💻 Aspiring Full Stack Developer  
-🐍 Python | 🗄️ SQL  | ⚛️ React | 🌐 Web Development  
+### Python Full Stack Developer | React Developer | Exploring Agentic AI 🤖
+
+🎓 B.E. Computer Science and Engineering Graduate  
+💻 Passionate about building web applications and intelligent solutions  
+🐍 Python | ⚡ FastAPI | ⚛️ React | 🗄️ MySQL | 🤖 Agentic AI
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I am a Computer Science student passionate about software development
-- 💻 I build web applications using React and Python
-- 🌱 Currently learning Full Stack Development
-- 🎯 Goal: Become a Full Stack Developer
-- 📍 Location: India
+I'm a Computer Science graduate passionate about software development, backend engineering, and emerging AI technologies.
+
+- 💻 Interested in building scalable web applications using Python, FastAPI, and React.
+- 🐍 Strong interest in Python development, REST APIs, and backend technologies.
+- ⚛️ Experienced in developing responsive and user-friendly interfaces with React.js.
+- 🗄️ Familiar with SQL, MySQL, database management, and CRUD operations.
+- 🤖 Currently exploring Generative AI, LangChain, RAG, and Agentic AI to build intelligent applications.
+- 🎯 Actively seeking opportunities as a **Python Developer, Python Full Stack Developer, React Developer, Frontend Developer, or Web Developer**.
+- 📍 Based in India.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### Programming Languages
 - Python
@@ -24,48 +30,104 @@
 - SQL
 
 ### Frontend Development
-- HTML
-- CSS
+- HTML5
+- CSS3
+- JavaScript
 - React.js
+- Tailwind CSS
 
-### Tools
-- Git
-- GitHub
+### Backend Development
+- Python
+- FastAPI
+- REST API Development
+
+### Databases
+- MySQL
+- SQL
+- SQLAlchemy
+- MongoDB (Learning)
+
+### AI & Agentic AI
+- LangChain
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Google Gemini API
+- Prompt Engineering
+- Generative AI
+
+### Developer Tools
+- Git & GitHub
 - VS Code
+- Postman
+- MySQL Workbench
+- Vite
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 🎥 VidTube - YouTube Clone
-- Built using React.js and YouTube API
-- Displays videos, channel details, and comments
-- Responsive design
 
-### 🌦️ Weather App
-- Built using React.js
-- Shows real-time weather data using API
+### 🤖 AI-Based Campus Placement Management System
+- Developed a web-based placement management application.
+- Implemented student and placement officer dashboards.
+- Integrated resume management and AI-based resume evaluation.
+- Used Python, Django, MySQL, and frontend technologies.
 
-### 🧑‍🎓 Student Management System
-- Built using Python and SQL
-- Performs CRUD operations
+### 🎥 VidTube – YouTube Clone
+- Developed a responsive video streaming interface using React.js.
+- Integrated YouTube API to retrieve video and channel information.
+- Implemented dynamic content rendering and reusable components.
 
----
+### 👨‍💻 Employee Management System
+- Developed CRUD operations for employee management.
+- Implemented REST APIs and database integration.
+- Worked with Python, FastAPI, SQLAlchemy, and MySQL.
 
-## 📫 Contact Me
-
-- LinkedIn: https://www.linkedin.com/in/vishnu-k-268712290/
-- GitHub: https://github.com/Kvishnu1805
-- Email: kvishnu1805@gmail.com
-
----
-
-## 🔥 Currently Learning
-
-- React.js Advanced
-- Full Stack Development
-- API Integration
+### 🌦️ Weather Application
+- Built a responsive weather application using React.js.
+- Integrated weather APIs to display real-time weather information.
+- Implemented dynamic data rendering.
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 🌱 Currently Exploring
+
+- Advanced Python and FastAPI
+- Backend Development and API Architecture
+- LangChain and LLM Integrations
+- Retrieval-Augmented Generation (RAG)
+- Building AI Agents and Agentic AI Applications
+- AI-powered Automation and Intelligent Workflows
+
+---
+
+## 🎯 Career Objective
+
+I aspire to build a career in Python development, full stack engineering, and AI-powered application development.
+
+I'm enthusiastic about learning new technologies, solving real-world problems, and building applications that combine modern web development with intelligent AI capabilities.
+
+**Open to entry-level opportunities, internships, and exciting collaborations!**
+
+---
+
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kvishnu1805&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kvishnu1805&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/vishnu-k-268712290](https://www.linkedin.com/in/vishnu-k-268712290/)
+- 💻 GitHub: [github.com/Kvishnu1805](https://github.com/Kvishnu1805)
+- 📧 Email: [kvishnu1805@gmail.com](mailto:kvishnu1805@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+**Let's build something amazing together! 🚀**
